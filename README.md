@@ -69,13 +69,13 @@ Here are eight famous people:
     ... here goes your code ...
     ```
 
-11. Create a query that would select the people with either their first or last name starting with an `M`:
+11. Create a query that would select the people with either their first or last name starting with a `C`:
 
     ```javascript
     ... here goes your code ...
     ```
 
-12. Create a query that would select the people with both their first and last name starting with an `M`:
+12. Create a query that would select the people born after 1900 with their last name starting with a `C`:
 
     ```javascript
     ... here goes your code ...
